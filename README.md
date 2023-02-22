@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fjgonzalez25691
 - 👀 I’m interested in web development and Python
-- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django apps
 - 📫 How to reach me: twitter: @fjgonzalezapa
 <!---
